@@ -1,3 +1,21 @@
+/* Navbar Links */
+.links{
+background-color: #000;
+
+}
+.list{
+display: flex;
+align-items: center;
+justify-content: space-between;
+list-style: none;
+}
+.list-item{
+font-weight: bold;
+}
+.list-link{
+color: white;
+}
+
 /* Start Animated Fonts */
 .fonts{
 margin-top: 40px;
